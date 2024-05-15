@@ -1,5 +1,11 @@
-### Olá! Eu sou o Murilo Sene 🤚
-### Sou estudante de analise e desenvolvimento de sistemas na Facens - SP e estou me especializando na área de desenvolvimento de software e web, em busca do meu primeiro estagio ou Jr na área.
+### 👋 Bem vindo!
+
+Eu sou o Murilo um entusiasta em tecnologia atualmente cursando meu 3ª semestre em Analise e desenvolvimento de sistemas na universidade da Facens buscando expandir meu conhecimento e habilidades técnicas, com foco em me tornar um Desenvolvedor Back End Junior.
+
+Possuo habilidades em Python, Django, Flask, MySQ, LHTML5, CSS3, JavaScript, Bootstrap, fazendo com o que me permite desenvolver soluções web eficientes e intuitivas.
+
+Caso queira saber um pouco mais sobre mim:
+https://murilosene.notion.site/Murilo-Sene-f29683efc85d45be8489fcaf6b871789?pvs=4
 
 📫 Contato: murilosene2004@gmail.com
 
