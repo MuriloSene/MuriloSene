@@ -7,7 +7,8 @@ Possuo habilidades em Python, Django, Flask, MySQ, LHTML5, CSS3, JavaScript, Boo
 Caso queira saber um pouco mais sobre mim:
 https://murilosene.notion.site/Murilo-Sene-f29683efc85d45be8489fcaf6b871789?pvs=4
 
-📫 Contato: murilosene2004@gmail.com
+📫 Contato: murilosene2004@gmail.com / https://wa.me/11944803198
+
 
 🌐 Sobre mim: https://murilosene.notion.site/Murilo-Sene-f29683efc85d45be8489fcaf6b871789?pvs=4
 
