@@ -1,16 +1,16 @@
 ### 👋 Bem vindo!
 
-Eu sou o Murilo um entusiasta em tecnologia atualmente cursando meu 3ª semestre em Analise e desenvolvimento de sistemas na universidade da Facens buscando expandir meu conhecimento e habilidades técnicas, com foco em me tornar um Desenvolvedor Back End Junior.
+Eu sou o Murilo um entusiasta em tecnologia atualmente cursando meu 5ª semestre em Analise e desenvolvimento de sistemas na universidade da Facens buscando expandir meu conhecimento e habilidades técnicas, com foco em me tornar um Desenvolvedor Back End Junior.
 
 Possuo habilidades em Python, Django, Flask, MySQ, LHTML5, CSS3, JavaScript, Bootstrap, fazendo com o que me permite desenvolver soluções web eficientes e intuitivas.
 
 Caso queira saber um pouco mais sobre mim:
-https://murilosene.notion.site/Murilo-Sene-f29683efc85d45be8489fcaf6b871789?pvs=4
+
 
 📫 Contato: murilosene2004@gmail.com / https://wa.me/11944803198
 
 
-🌐 Sobre mim: https://murilosene.notion.site/Murilo-Sene-f29683efc85d45be8489fcaf6b871789?pvs=4
+🌐 Sobre mim:
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-sene-66a0442ba/)
