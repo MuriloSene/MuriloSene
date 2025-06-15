@@ -1,6 +1,6 @@
 ### 👋 Bem vindo!
 
-Eu sou o Murilo um entusiasta em tecnologia atualmente cursando meu 5ª semestre em Analise e desenvolvimento de sistemas na universidade da Facens buscando expandir meu conhecimento e habilidades técnicas, com foco em me tornar um Desenvolvedor Back End Junior.
+Eu sou o Murilo um entusiasta em tecnologia atualmente cursando meu 5ª semestre em Analise e desenvolvimento de sistemas na universidade da Facens buscando expandir meu conhecimento e habilidades técnicas, com foco em me tornar um Desenvolvedor.
 
 Possuo habilidades em Python, Django, Flask, MySQ, LHTML5, CSS3, JavaScript, Bootstrap, fazendo com o que me permite desenvolver soluções web eficientes e intuitivas.
 
